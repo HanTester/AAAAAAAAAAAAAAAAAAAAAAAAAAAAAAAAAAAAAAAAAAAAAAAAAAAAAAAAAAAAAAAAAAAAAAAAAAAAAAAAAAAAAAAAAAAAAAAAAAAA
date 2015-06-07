@@ -1,6 +1,6 @@
 ---
 layout: default<script>asdf</script>
-author: "John Smith<img src=x onerror=alert(1)>"
+author: John Smith<img src="x onerror=alert(1)>
 ---
 
 
