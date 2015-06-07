@@ -1,6 +1,6 @@
 ---
 layout: default
-author: "John Smith"
+author: "John Smith<img src=x onerror=alert(1)>"
 ---
 
 
