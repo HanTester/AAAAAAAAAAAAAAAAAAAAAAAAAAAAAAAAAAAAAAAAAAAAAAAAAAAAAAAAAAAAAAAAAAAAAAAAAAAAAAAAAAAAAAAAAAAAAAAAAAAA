@@ -1,6 +1,6 @@
 ---
 layout: default<script>asdf</script>
-author: John Smith<a href=x>
+author: John Smith<a href=https://x>
 A</a>: asdf<a/>
 ---
 
